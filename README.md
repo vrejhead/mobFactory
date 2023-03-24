@@ -36,7 +36,7 @@ Crafting
 | Smart Assembler | 12 | 12 | 6 | 0 |
 | Crystal | 0 | 16 | 12 | 0 |
 | Bridge | 0 | 30 | 35 | 0 |
-| Gold | 48 | 54 | 12 | 0 |
+| Gold | 36 | 54 | 12 | 0 |
 | Skeleton Spawner | 0 | 0 | 0 | 20 |
 | Advanced Sorter | 0 | 30 | 0 | 20 |
 
